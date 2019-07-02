@@ -13,14 +13,11 @@ public class Motor {
             System.out.println("Мотор  заведен");
         }
     }
-
     void stopMotor() {
         if (priznakStartMotor == false) {
             System.out.println("Мотор  заглушен");
         }
-
     }
-
     boolean getPriznakStartMotor() {
         return priznakStartMotor;
     }

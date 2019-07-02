@@ -1,9 +1,13 @@
 package com.Gord.homework.homework_6;
 
+import java.util.Scanner;
+
 public class Transmission {
+
     private int minPeredacha = 0;
     private int maxPeredacha = 7;
     private int currentBroadcast = 1;
+
 
     int shiftGearUp() {
         if (currentBroadcast < maxPeredacha) {
@@ -29,7 +33,6 @@ public class Transmission {
     }
 
     int getCurrentBroadcast() {
-
         return currentBroadcast;
     }
 }
