@@ -10,7 +10,7 @@ public class Motor {
         this.priznakStartMotor = priznakStartMotor;
     }
 
-    // метод стартМотор должен заводить мотор, особенно если он заглушен
+    // метод стартМотор должен заводить мотор, особенно если он заглушен, т.е. менять значение переменной, а не выводить на экран
     void startMotor() {
         if (priznakStartMotor == true) {
             System.out.println("Мотор  заведен");
