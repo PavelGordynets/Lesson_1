@@ -2,6 +2,7 @@ package com.Gord.classwork.lec_9.task_3;
 
 import java.util.Arrays;
 
+//+
 public class Task3 {
     private static final String STARTS_WITH_SYMBOL = "w";
     private static final String DELIMITER = " ";
