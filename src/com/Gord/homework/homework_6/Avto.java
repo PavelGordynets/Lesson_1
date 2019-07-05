@@ -5,7 +5,9 @@ public class Avto {
     boolean pedalStart = false;
 
 
+    // не стоит так сокращать имя переменной. Никогда в констуктор вот так не передавай константу
     Motor mot = new Motor(true);
+    // этот объект тоже ты получишь через конструктор
     Transmission transmission = new Transmission();
 
     void pushPedal() {
@@ -32,6 +34,6 @@ public class Avto {
             System.out.println("Передача понижена до  " + transmission.getCurrentBroadcast() + " . Cкорость движения составила " + transmission.getCurrentBroadcast() * 20 + " км/ч ");
         }
     }
-
+// не оставляй такие пустые строки
 }
 
