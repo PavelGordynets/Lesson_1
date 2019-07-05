@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class Task9 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
+        // next -> arrayLength
         int next;
         do {
             System.out.println("Введите колличество строк: ");
@@ -15,9 +16,12 @@ public class Task9 {
             }
             next = in.nextInt();
         }
+        // это же бесконечный цикл?
         while (next < 0);
+        
         String[] arr = new String[next];
         System.out.println("Ведите строки: ");
+        // плохое название переменной
         Scanner iny = new Scanner(System.in);
 
         for (int i = 0; i < arr.length; i++) {
