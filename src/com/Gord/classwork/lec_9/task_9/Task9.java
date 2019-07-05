@@ -16,7 +16,6 @@ public class Task9 {
             }
             next = in.nextInt();
         }
-        // это же бесконечный цикл?
         while (next < 0);
         
         String[] arr = new String[next];
