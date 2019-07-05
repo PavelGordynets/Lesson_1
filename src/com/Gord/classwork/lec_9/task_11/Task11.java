@@ -7,6 +7,7 @@ import java.util.Scanner;
 public class Task11 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
+        // arrayLength
         int next;
         do {
             System.out.println("Введите колличество строк: ");
@@ -25,7 +26,11 @@ public class Task11 {
             System.out.print("Введите строку " + (i + 1) + ": ");
             arr[i] = iny.nextLine();
         }
+        
+        // а самая короткая?
         int maxLengthString = 0;
+        
+        // самую длинную и короткую строки нужно куда-нибудь сохранить и затем вывести на экран
         for (int i = 0; i < arr.length; i++) {
             if (arr[i].length() > maxLengthString) {
                 maxLengthString = arr[i].length();
