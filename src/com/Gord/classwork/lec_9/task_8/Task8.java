@@ -2,6 +2,7 @@ package com.Gord.classwork.lec_9.task_8;
 
 import java.util.Scanner;
 
+// нужен класс Car, а склад - это массив машин
 public class Task8 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
