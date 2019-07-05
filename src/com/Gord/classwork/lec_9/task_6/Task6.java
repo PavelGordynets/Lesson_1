@@ -1,8 +1,12 @@
 package com.Gord.classwork.lec_9.task_6;
 
+// думаю здесь можно решить задачу двумя вложенными циклами.
 public class Task6 {
     public static void main(String[] args) {
+        // string -> inputText
         String string = "While major add add gameplay plan  components are already in place and functioning, players help is needed to add some of the smaller features and content. Of course polishing the overall experience is important at the same time. Game has been extensively tested in closed group, but it is always important to hear fresh suggestions from larger crowd that come from various gaming backgrounds. Plan is to make the game as good as possible but without compromising the core idea.";
+        
+        // слова для поиска думаю стоит сделать массивом
         String foundAdd = ("add");
         String foundAlert = ("alert");
         String foundGood = ("good");
@@ -15,6 +19,7 @@ public class Task6 {
         int sumFoundAlert = 0;
         int sumFoundGood = 0;
         int sumFoundPlan = 0;
+        // попробуй заменить на do-while. Тогда не надо будет делать первоначальный indexOf()
         while (numFoundAdd >= 0) {
             System.out.println("Слово " + foundAdd + " найдено в индексе: " + numFoundAdd);
             numFoundAdd = string.indexOf(foundAdd, numFoundAdd + 1);
