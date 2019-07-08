@@ -13,7 +13,10 @@ public class Task3 {
             int sizeArray = scanner.nextInt();
             System.out.println("Введите максимальный размер массива: ");
             int maxSizeArray = scanner.nextInt();
+            
+            // всегда используй фигурные скобки
             if (sizeArray > maxSizeArray) throw new IndexOutOfBoundsException();
+            
             int[] array = new int[sizeArray];
             for (int i = 0; i < array.length; i++) {
                 array[i] = (int) (Math.random() * 100);
