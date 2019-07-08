@@ -9,7 +9,8 @@
       <change beforePath="$PROJECT_DIR$/out/production/Java_core/com/Gord/homework/homework_6/Avto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_core/com/Gord/homework/homework_6/Avto.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java_core/com/Gord/homework/homework_6/Motor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_core/com/Gord/homework/homework_6/Motor.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java_core/com/Gord/homework/homework_6/Transmission.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_core/com/Gord/homework/homework_6/Transmission.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_3/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_3/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_4/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_4/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_4/UnderAttackException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_4/OddNumberException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_2/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_2/Task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_6/Task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_6/Task6.java" afterDir="false" />
     </list>
@@ -25,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_3/Task3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+            <state relative-caret-position="272">
+              <caret line="28" column="60" selection-start-line="28" selection-start-column="60" selection-end-line="28" selection-end-column="60" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -38,19 +39,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_4/UnderAttackException.java">
+        <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_4/OddNumberException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="85">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+              <folding>
+                <element signature="e#140#141#0" expanded="true" />
+                <element signature="e#161#162#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_4/Task4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+            <state relative-caret-position="187">
+              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -86,7 +91,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_5/AutomaticCloseCar.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="149">
-              <caret line="14" column="57" lean-forward="true" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
+              <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -134,7 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/Gord/homework/homework_5/Acar.java" />
         <option value="$PROJECT_DIR$/src/com/Gord/homework/homework_3/task_9/Task9.java" />
         <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_6_7/task_1/Task1.java" />
         <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_6_7/task_1/SuperUser.java" />
@@ -180,11 +184,12 @@
         <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_2/Task2.java" />
         <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_6/Task6.java" />
         <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_4/UnderAttackException.java" />
-        <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_4/Task4.java" />
         <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_5/AutomaticActivationOfTheSignaling.java" />
         <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_5/AutomaticCloseCar.java" />
         <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_5/Task5.java" />
         <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_3/Task3.java" />
+        <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_4/OddNumberException.java" />
+        <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_4/Task4.java" />
       </list>
     </option>
   </component>
@@ -344,7 +349,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task3 (1)">
+  <component name="RunManager" selected="Application.Task4">
     <configuration name="Task3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Gord.classwork.lec_10.task_3.Task3" />
       <module name="Java_core" />
@@ -412,9 +417,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Task3 (1)" />
         <item itemvalue="Application.Task5" />
-        <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Task3" />
         <item itemvalue="Application.Task6" />
       </list>
@@ -466,7 +471,28 @@
       <option name="project" value="LOCAL" />
       <updated>1562603730347</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="исправил">
+      <created>1562604058939</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1562604058939</updated>
+    </task>
+    <task id="LOCAL-00007" summary="выполнены задания кроме 6,7,8,10">
+      <created>1562604112664</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1562604112664</updated>
+    </task>
+    <task id="LOCAL-00008" summary="исправил">
+      <created>1562604179380</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1562604179380</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -505,10 +531,11 @@
     <MESSAGE value="вв" />
     <MESSAGE value="afdf" />
     <MESSAGE value="q" />
-    <MESSAGE value="выполнены задания кроме 6,7,8,10" />
     <MESSAGE value="выполнены задания кроме 2" />
     <MESSAGE value="Исправил" />
-    <option name="LAST_COMMIT_MESSAGE" value="Исправил" />
+    <MESSAGE value="выполнены задания кроме 6,7,8,10" />
+    <MESSAGE value="исправил" />
+    <option name="LAST_COMMIT_MESSAGE" value="исправил" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -820,20 +847,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_4/UnderAttackException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_4/Task4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Gord/homework/homework_6/Avto.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -879,17 +892,35 @@
     <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_5/AutomaticCloseCar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
-          <caret line="14" column="57" lean-forward="true" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
+          <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_3/Task3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+        <state relative-caret-position="272">
+          <caret line="28" column="60" selection-start-line="28" selection-start-column="60" selection-end-line="28" selection-end-column="60" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_4/OddNumberException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_4/Task4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
         </state>
       </provider>
     </entry>
