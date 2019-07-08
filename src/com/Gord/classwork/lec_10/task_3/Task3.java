@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Task3 {
     public static void main(String[] args) {
-
+// этот пробел можно убрать
         try {
             Scanner scanner = new Scanner(System.in);
             System.out.println("Введите размер массива: ");
