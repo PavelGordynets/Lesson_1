@@ -11,6 +11,7 @@ public class AutomaticCloseCar {
         this.maximumDistanceForAutomaticCloseCar = maximumDistanceForAutomaticCloseCar;
     }
 
+    // цикл все же лучше в мейн
     public int distanceFromCar() {
         for (int i = distanceGpsFromCar; i < maximumDistanceForAutomaticCloseCar; i++) {
             distanceGpsFromCar++;
