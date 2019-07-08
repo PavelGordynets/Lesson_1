@@ -22,11 +22,11 @@ public class Task3 {
             }
             System.out.println(Arrays.toString(array));
         } catch (NegativeArraySizeException e) {
-            System.out.println("Вы ввели отрицательное значение массива. Размер массива не может быть отрицательным.");
+            System.out.println("Вы ввели отрицательное значение массива. Размер массива не может быть отрицательным!");
         } catch (InputMismatchException e) {
-            System.out.println("Размер массива не может быть интексом.");
+            System.out.println("Размер массива не может быть интексом!");
         } catch (IndexOutOfBoundsException e) {
-            System.out.println("Значение больше допустимого");
+            System.out.println("Значение больше допустимого!");
         }
     }
 }
