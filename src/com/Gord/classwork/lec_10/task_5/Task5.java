@@ -9,7 +9,7 @@ public class Task5 {
                 signaling.distanceGpsFromCar++;
                 System.out.println("Вы отошли на " + signaling.distanceGpsFromCar + " м от машины");
             }
-
+// здесь абзац не нужен
         } finally {
             signaling.AutomaticCloseCar();
         }
