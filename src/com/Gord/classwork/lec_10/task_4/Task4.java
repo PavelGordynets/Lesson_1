@@ -9,8 +9,11 @@ public class Task4 {
             Scanner scanner = new Scanner(System.in);
             int number = scanner.nextInt();
             System.out.println("Вы ввели число : " + number);
+            
+            // if() {твой код}
             if (number % 2 == 1) throw new OddNumberException("Вы ввели нечетное число.Необходимо ввести четное число");
         } catch (OddNumberException e) {
+            // пока не ошибка, но лучше пользователю не показывать стек трейс
             e.printStackTrace();
         }
     }
