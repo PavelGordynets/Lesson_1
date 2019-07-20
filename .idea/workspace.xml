@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63ebf19f-3a0c-4390-ae1f-74c0d7cdadb0" name="Default Changelist" comment="выполнены задания кроме 6,7,8,10">
+    <list default="true" id="63ebf19f-3a0c-4390-ae1f-74c0d7cdadb0" name="Default Changelist" comment="исправил">
+      <change afterPath="$PROJECT_DIR$/src/com/Gord/homework/homework_11/task_1/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Gord/homework/homework_11/task_1/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Gord/homework/homework_11/task_2/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Gord/homework/homework_11/task_3/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Gord/homework/homework_11/task_4/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Gord/homework/homework_11/task_5/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Gord/homework/homework_11/task_6/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Gord/homework/homework_11/task_7/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Gord/homework/homework_12_collection/task_1/Task_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java_core/com/Gord/classwork/lec_9/task_2/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_core/com/Gord/classwork/lec_9/task_2/Task2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java_core/com/Gord/classwork/lec_9/task_3/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_core/com/Gord/classwork/lec_9/task_3/Task3.class" afterDir="false" />
@@ -9,10 +18,13 @@
       <change beforePath="$PROJECT_DIR$/out/production/Java_core/com/Gord/homework/homework_6/Avto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_core/com/Gord/homework/homework_6/Avto.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java_core/com/Gord/homework/homework_6/Motor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_core/com/Gord/homework/homework_6/Motor.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java_core/com/Gord/homework/homework_6/Transmission.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_core/com/Gord/homework/homework_6/Transmission.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_4/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_4/Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_4/UnderAttackException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_4/OddNumberException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_11/Task11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_11/Task11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_12/Task12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_12/Task12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_2/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_2/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_4/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_4/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_5/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_5/Task5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_6/Task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_6/Task6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_9/Task9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_9/Task9.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,10 +39,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_3/Task3.java">
+        <entry file="file://$PROJECT_DIR$/src/com/Gord/homework/homework_12_collection/паи.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="28" column="60" selection-start-line="28" selection-start-column="60" selection-end-line="28" selection-end-column="60" />
+            <state relative-caret-position="34">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/Gord/homework/homework_12_collection/task_1/Task_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,86 +60,76 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_4/OddNumberException.java">
+        <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_12/task_2/TmsArrayUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-              <folding>
-                <element signature="e#140#141#0" expanded="true" />
-                <element signature="e#161#162#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_4/Task4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+            <state relative-caret-position="374">
+              <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_5/Task5.java">
+        <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_12/task_3/Task3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="61" selection-start-line="4" selection-start-column="61" selection-end-line="4" selection-end-column="61" />
+              <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Gord/homework/homework_6/Avto.java">
+        <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_12/task_1/Generic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+            <state relative-caret-position="119">
+              <caret line="9" column="53" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="53" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Gord/homework/homework_6/AvtoMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_5/AutomaticCloseCar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Gord/homework/homework_3/task_3/Task3.java">
+        <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_12/task_3/ClassImplemetsInterfece.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Gord/homework/homework_3/task_10/Task10.java">
+        <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_12/task_3/ClassMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+            <state relative-caret-position="68">
+              <caret line="4" column="98" selection-start-line="4" selection-start-column="98" selection-end-line="4" selection-end-column="98" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_1/Task1.java">
+        <entry file="file://$PROJECT_DIR$/src/com/Gord/homework/homework_11/task_6/Task6.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="20" />
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Gord/homework/homework_11/task_7/Task7.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_12/Task12.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -139,13 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/Gord/homework/homework_3/task_9/Task9.java" />
-        <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_6_7/task_1/Task1.java" />
-        <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_6_7/task_1/SuperUser.java" />
-        <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_6_7/task_2/House.java" />
-        <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_6_7/task_3/Task3.java" />
-        <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_6_7/task_3/JavaProgrammer.java" />
-        <option value="$PROJECT_DIR$/src/com/Gord/homework/homework_1/task_4/Task4.java" />
         <option value="$PROJECT_DIR$/src/com/Gord/homework/homework_1/task_5/Task5.java" />
         <option value="$PROJECT_DIR$/src/com/Gord/homework/homework_1/task_7/Task7.java" />
         <option value="$PROJECT_DIR$/src/com/Gord/homework/homework_1/task_2/Task2.java" />
@@ -170,13 +174,8 @@
         <option value="$PROJECT_DIR$/src/com/Gord/homework/homework_6/AvtoMain.java" />
         <option value="$PROJECT_DIR$/src/com/Gord/homework/homework_6/Transmission.java" />
         <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_1/Task1.java" />
-        <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_5/Task5.java" />
         <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_3/Task3.java" />
         <option value="$PROJECT_DIR$/src/com/Gord/classwork/task_12/Task12.java" />
-        <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_12/Task12.java" />
-        <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_11/Task11.java" />
-        <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_9/Task9.java" />
-        <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_4/Task4.java" />
         <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_7/Task7.java" />
         <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_8/Task8.java" />
         <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_10/ad.java" />
@@ -190,6 +189,18 @@
         <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_3/Task3.java" />
         <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_4/OddNumberException.java" />
         <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_4/Task4.java" />
+        <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_4/Task4.java" />
+        <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_5/Task5.java" />
+        <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_9/Task9.java" />
+        <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_11/Task11.java" />
+        <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_12/SortString.java" />
+        <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_12/Task12.java" />
+        <option value="$PROJECT_DIR$/src/com/Gord/homework/homework_11/task_1/Task1.java" />
+        <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_12/task_2/TmsArrayUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_12/task_3/ClassMain.java" />
+        <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_12/task_3/Task3.java" />
+        <option value="$PROJECT_DIR$/src/com/Gord/classwork/lec_12/task_3/ClassImplemetsInterfece.java" />
+        <option value="$PROJECT_DIR$/src/com/Gord/homework/homework_12_collection/task_1/Task_1.java" />
       </list>
     </option>
   </component>
@@ -205,6 +216,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -235,101 +248,29 @@
               <item name="Lesson_1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Gord" type="462c0819:PsiDirectoryNode" />
-              <item name="classwork" type="462c0819:PsiDirectoryNode" />
-              <item name="lec_10" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Lesson_1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Lesson_1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Gord" type="462c0819:PsiDirectoryNode" />
-              <item name="classwork" type="462c0819:PsiDirectoryNode" />
-              <item name="lec_10" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="homework_12_collection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lesson_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lesson_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Gord" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="homework_12_collection" type="462c0819:PsiDirectoryNode" />
               <item name="task_1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Lesson_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lesson_1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Gord" type="462c0819:PsiDirectoryNode" />
-              <item name="classwork" type="462c0819:PsiDirectoryNode" />
-              <item name="lec_10" type="462c0819:PsiDirectoryNode" />
-              <item name="task_3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Lesson_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lesson_1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Gord" type="462c0819:PsiDirectoryNode" />
-              <item name="classwork" type="462c0819:PsiDirectoryNode" />
-              <item name="lec_10" type="462c0819:PsiDirectoryNode" />
-              <item name="task_4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Lesson_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lesson_1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Gord" type="462c0819:PsiDirectoryNode" />
-              <item name="classwork" type="462c0819:PsiDirectoryNode" />
-              <item name="lec_10" type="462c0819:PsiDirectoryNode" />
-              <item name="task_5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Lesson_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lesson_1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Gord" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Lesson_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lesson_1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Gord" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-              <item name="homework_3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Lesson_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lesson_1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Gord" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-              <item name="homework_3" type="462c0819:PsiDirectoryNode" />
-              <item name="task_3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Lesson_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lesson_1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Gord" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-              <item name="homework_3" type="462c0819:PsiDirectoryNode" />
-              <item name="task_4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Lesson_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lesson_1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Gord" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-              <item name="homework_3" type="462c0819:PsiDirectoryNode" />
-              <item name="task_10" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Lesson_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lesson_1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Gord" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-              <item name="homework_6" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -349,13 +290,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task4">
-    <configuration name="Task3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Gord.classwork.lec_10.task_3.Task3" />
+  <component name="RunManager" selected="Application.Task_1">
+    <configuration name="ClassMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Gord.classwork.lec_12.task_3.ClassMain" />
       <module name="Java_core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Gord.classwork.lec_10.task_3.*" />
+          <option name="PATTERN" value="com.Gord.classwork.lec_12.task_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -363,12 +304,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Gord.homework.homework_3.task_3.Task3" />
+    <configuration name="Maingeneric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Gord.classwork.lec_12.task_1.Maingeneric" />
       <module name="Java_core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Gord.homework.homework_3.task_3.*" />
+          <option name="PATTERN" value="com.Gord.classwork.lec_12.task_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -376,12 +317,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Gord.classwork.lec_10.task_4.Task4" />
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Gord.homework.homework_11.task_1.Task1" />
       <module name="Java_core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Gord.classwork.lec_10.task_4.*" />
+          <option name="PATTERN" value="com.Gord.homework.homework_11.task_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -389,12 +330,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Gord.classwork.lec_10.task_5.Task5" />
+    <configuration name="Task_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Gord.homework.homework_12_collection.task_1.Task_1" />
       <module name="Java_core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Gord.classwork.lec_10.task_5.*" />
+          <option name="PATTERN" value="com.Gord.homework.homework_12_collection.task_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -402,12 +343,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Gord.classwork.lec_9.task_6.Task6" />
+    <configuration name="TmsArrayUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Gord.classwork.lec_12.task_2.TmsArrayUtils" />
       <module name="Java_core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Gord.classwork.lec_9.task_6.*" />
+          <option name="PATTERN" value="com.Gord.classwork.lec_12.task_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -417,11 +358,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task4" />
-        <item itemvalue="Application.Task3 (1)" />
-        <item itemvalue="Application.Task5" />
-        <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.Task6" />
+        <item itemvalue="Application.Task_1" />
+        <item itemvalue="Application.ClassMain" />
+        <item itemvalue="Application.TmsArrayUtils" />
+        <item itemvalue="Application.Maingeneric" />
+        <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -492,14 +433,35 @@
       <option name="project" value="LOCAL" />
       <updated>1562604179380</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="исправил">
+      <created>1562605076164</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1562605076164</updated>
+    </task>
+    <task id="LOCAL-00010" summary="c">
+      <created>1563451853861</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1563451853861</updated>
+    </task>
+    <task id="LOCAL-00011" summary="b">
+      <created>1563452140584</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1563452140584</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26899695" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2819149" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -535,7 +497,9 @@
     <MESSAGE value="Исправил" />
     <MESSAGE value="выполнены задания кроме 6,7,8,10" />
     <MESSAGE value="исправил" />
-    <option name="LAST_COMMIT_MESSAGE" value="исправил" />
+    <MESSAGE value="c" />
+    <MESSAGE value="b" />
+    <option name="LAST_COMMIT_MESSAGE" value="b" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -572,128 +536,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_6_7/task_4/Vorona.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_6_7/task_4/Vorobei.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_6_7/task_3/JavaProgrammer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_6_7/task_4/Bird.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="9" selection-start-line="7" selection-start-column="33" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_6_7/task_4/BirdMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_6_7/task_5/Mouser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_6_7/task_5/Button.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_6_7/task_5/WindowsButton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_6_7/task_5/LinuxButton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_6_7/task_4/Sinica.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-          <folding>
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Gord/homework/homework_3/task_8/Task8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_6_7/task_5/ButtonMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Gord/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_6_7/task_5/MacButton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="20" selection-end-column="1" />
-          <folding>
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_6_7/task_2/HouseMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_6_7/task_2/House.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="28" column="36" lean-forward="true" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Gord/homework/homework_6/Ps.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/Gord/homework/homework_6/Motor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="49" lean-forward="true" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
-          <folding>
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#507#508#0" expanded="true" />
-            <element signature="e#547#548#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/lang/System.java" />
     <entry file="file://$PROJECT_DIR$/src/com/Gord/homework/homework_6/Transmission.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -735,75 +577,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_9/Task9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_4/Task4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_5/Task5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_7/Task7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_11/Task11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="19" column="40" selection-start-line="7" selection-start-column="3" selection-end-line="19" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_12/Task12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="42" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_3/Task3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_10/Task10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_8/Task8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_10/ad.java" />
     <entry file="file://$PROJECT_DIR$/src/com/Gord/homework/homework_3/task_4/Task4.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -816,20 +589,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
           <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_2/Task2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_6/Task6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -875,13 +634,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_1/Task1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_5/Task5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -919,8 +671,214 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_10/task_4/Task4.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="93" selection-start-line="13" selection-start-column="93" selection-end-line="13" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_1/Task1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_2/Task2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_3/Task3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-238">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_12/SortString.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_4/Task4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_5/Task5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_6/Task6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_7/Task7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_8/Task8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_9/Task9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_10/Task10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gord/homework/homework_11/ыв.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_11/Task11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gord/homework/homework_11/task_1/text.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gord/homework/homework_11/task_2/Task2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gord/homework/homework_11/task_3/Task3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gord/homework/homework_11/task_4/Task4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gord/homework/homework_11/task_5/Task5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gord/homework/homework_11/task_1/Task1.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_12/task_1/Maingeneric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_12/task_2/TmsArrayUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_12/task_3/Task3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_12/task_1/Generic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="53" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_12/task_3/ClassImplemetsInterfece.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_12/task_3/ClassMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="98" selection-start-line="4" selection-start-column="98" selection-end-line="4" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gord/homework/homework_11/task_6/Task6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gord/homework/homework_11/task_7/Task7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gord/classwork/lec_9/task_12/Task12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gord/homework/homework_12_collection/паи.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Gord/homework/homework_12_collection/task_1/Task_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

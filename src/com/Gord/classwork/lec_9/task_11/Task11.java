@@ -7,35 +7,38 @@ import java.util.Scanner;
 public class Task11 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        // arrayLength
-        int next;
+        int arrayLength;
         do {
             System.out.println("Введите колличество строк: ");
             while (!in.hasNextInt()) {
                 System.out.println("ошибка.Введите число !!! ");
                 in.next();
             }
-            next = in.nextInt();
+            arrayLength = in.nextInt();
         }
-        while (next < 0);
-        String[] arr = new String[next];
+        while (arrayLength < 0);
+        String[] array = new String[arrayLength];
         System.out.println("Ведите строки: ");
         Scanner iny = new Scanner(System.in);
 
-        for (int i = 0; i < arr.length; i++) {
+        for (int i = 0; i < array.length; i++) {
             System.out.print("Введите строку " + (i + 1) + ": ");
-            arr[i] = iny.nextLine();
+            array[i] = iny.nextLine();
         }
-        
-        // а самая короткая?
         int maxLengthString = 0;
-        
+        int minLengthString = 0;
         // самую длинную и короткую строки нужно куда-нибудь сохранить и затем вывести на экран
-        for (int i = 0; i < arr.length; i++) {
-            if (arr[i].length() > maxLengthString) {
-                maxLengthString = arr[i].length();
+        for (int i = 0; i < array.length; i++) {
+            if (array[i].length() > maxLengthString) {
+                maxLengthString = array[i].length();
             }
-            System.out.println("Max length string: " + maxLengthString);
         }
+        System.out.println("Max length string: " + maxLengthString);
+        for (int i = 0; i < array.length; i++) {
+            if (array[i].length() > minLengthString) {
+                minLengthString = array[i].length();
+            }
+        }
+        System.out.println("Min length string: " + minLengthString);
     }
 }

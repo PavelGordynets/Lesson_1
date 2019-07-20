@@ -5,7 +5,7 @@ public class Task6 {
     public static void main(String[] args) {
         // string -> inputText
         String string = "While major add add gameplay plan  components are already in place and functioning, players help is needed to add some of the smaller features and content. Of course polishing the overall experience is important at the same time. Game has been extensively tested in closed group, but it is always important to hear fresh suggestions from larger crowd that come from various gaming backgrounds. Plan is to make the game as good as possible but without compromising the core idea.";
-        
+
         // слова для поиска думаю стоит сделать массивом
         String foundAdd = ("add");
         String foundAlert = ("alert");
@@ -28,7 +28,7 @@ public class Task6 {
         if (sumFoundAdd == 0) {
             System.out.println("Слово " + foundAdd + " не найдено в строке");
         }
-        System.out.println("Суммарное колличество вхождений " + foundAdd + " в строку составило: " + sumFoundAdd+"\n");
+        System.out.println("Суммарное колличество вхождений " + foundAdd + " в строку составило: " + sumFoundAdd + "\n");
         while (numFoundAlert >= 0) {
             System.out.println("Слово " + foundAlert + " найдено в индексе: " + numFoundAlert);
             numFoundAdd = string.indexOf(foundAlert, numFoundAlert + 1);
@@ -37,7 +37,7 @@ public class Task6 {
         if (sumFoundAlert == 0) {
             System.out.println("Слово " + foundAlert + " не найдено в строке");
         }
-        System.out.println("Суммарное колличество вхождений " + foundAlert + " в строку составило: " + sumFoundAlert+"\n");
+        System.out.println("Суммарное колличество вхождений " + foundAlert + " в строку составило: " + sumFoundAlert + "\n");
 
         while (numFoundGood >= 0) {
             System.out.println("Слово " + foundGood + " найдено в индексе: " + numFoundGood);
@@ -47,7 +47,7 @@ public class Task6 {
         if (sumFoundGood == 0) {
             System.out.println("Слово " + foundGood + " не найдено в строке");
         }
-        System.out.println("Суммарное колличество вхождений " + foundGood + " в строку составило: " + sumFoundGood+"\n");
+        System.out.println("Суммарное колличество вхождений " + foundGood + " в строку составило: " + sumFoundGood + "\n");
         while (numFoundPlan >= 0) {
             System.out.println("Слово " + foundPlan + " найдено в индексе: " + numFoundPlan);
             numFoundPlan = string.indexOf(foundPlan, numFoundPlan + 1);
@@ -56,5 +56,6 @@ public class Task6 {
         if (sumFoundPlan == 0) {
             System.out.println("Слово " + foundPlan + " не найдено в строке");
         }
-        System.out.println("Суммарное колличество вхождений " + foundPlan + " в строку составило: " + sumFoundPlan+"\n");
+        System.out.println("Суммарное колличество вхождений " + foundPlan + " в строку составило: " + sumFoundPlan + "\n");
+    }
 }
