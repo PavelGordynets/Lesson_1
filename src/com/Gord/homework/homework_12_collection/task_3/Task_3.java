@@ -19,7 +19,6 @@ public class Task_3 {
         collection2.add(53);
         collection2.add(6);
         System.out.println("You two collection : " + collection2);
-
         collection1.removeAll(collection2);
         System.out.println("Corected first collection: " + collection1);
     }

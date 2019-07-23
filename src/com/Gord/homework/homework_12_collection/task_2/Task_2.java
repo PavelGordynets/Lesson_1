@@ -17,7 +17,6 @@ public class Task_2 {
                 iterator.remove();
             }
         }
-
         System.out.println("Ваш список после удаления : "+listNumber);
     }
 }
