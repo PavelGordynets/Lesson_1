@@ -13,6 +13,7 @@ public class TreeSetExample {
         treeSet.add(0);
         System.out.println(treeSet);
 
+        // ты не отсортировал, а вывел на экран в обратном порядке - это разные вещи
         Iterator i = treeSet.descendingIterator();
         while (i.hasNext()) {
             System.out.println(i.next());
