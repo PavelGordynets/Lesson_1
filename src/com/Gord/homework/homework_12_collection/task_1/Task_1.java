@@ -25,7 +25,8 @@ public class Task_1 {
         String message = entered(listName, namePerson);
         System.out.println(message);
     }
-                             // accessNames, approvedNames
+    // название метода не очень.
+    //listNAME -> accessNames, approvedNames
     public static String entered(List<String> listname, String namePerson) {
         if (listname.contains(namePerson)) {
             // погугли про String.format() код будет горадо красивее
