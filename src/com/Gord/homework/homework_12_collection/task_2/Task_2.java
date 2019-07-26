@@ -10,6 +10,8 @@ public class Task_2 {
             listNumber.add(0, i);
         }
         System.out.println("Ваш список : " + listNumber);
+        
+        // логику по удалению вынеси в отдельный метод, например filter(List<Integer> toFilter, int filterNumber)
         Iterator<Integer> iterator = listNumber.iterator();
 
         while (iterator.hasNext()) {

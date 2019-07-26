@@ -13,6 +13,13 @@ public class ArrayListExample {
         System.out.println("you arralist : " + arrayList);
         long before = System.currentTimeMillis();
 
+        /*
+        while (arrayList.size() > 0) {
+            arrayList.remove(arrayList.size() / 2);
+        }
+        */
+        
+        // !ПРАВИЛО: если ты копируешь кучу одинакового кода, значит, ты что-то делаешь не так
         for (int i = 0; i < arrayList.size(); i++) {
             arrayList.remove(arrayList.size() / 2);
         }

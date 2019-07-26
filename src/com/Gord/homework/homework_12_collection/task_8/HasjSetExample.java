@@ -2,6 +2,8 @@ package com.Gord.homework.homework_12_collection.task_8;
 
 import java.util.HashSet;
 
+// HashSet
+// задача пока не решена
 public class HasjSetExample {
     public static void main(String[] args) {
         Shop shop = new Shop(1,"sosedi");

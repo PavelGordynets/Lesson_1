@@ -11,6 +11,11 @@ public class LinkedListExample {
         System.out.println("you linkedList: " + linkedList);
         long before = System.currentTimeMillis();
 
+        /*
+        while (linkedList.size() > 0) {
+            linkedList.remove(linkedList.size() / 2);
+        }
+        */
         for (int i = 0; i < linkedList.size(); i++) {
             linkedList.remove(linkedList.size() / 2);
         }

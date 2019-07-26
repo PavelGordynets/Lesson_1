@@ -5,7 +5,9 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Task_1 {
+    // ENTER_ON
     private static final String ENTERON = "Welcom oua club ";
+    // ENTER_OFF
     private static final String ENTEROFF = "Enter close the club ";
 
     public static void main(String[] args) {
@@ -23,9 +25,11 @@ public class Task_1 {
         String message = entered(listName, namePerson);
         System.out.println(message);
     }
-
+    // название метода не очень.
+    //listNAME -> accessNames, approvedNames
     public static String entered(List<String> listname, String namePerson) {
         if (listname.contains(namePerson)) {
+            // погугли про String.format() код будет горадо красивее
             return ENTERON + ", " + namePerson + "!";
         } else {
             return ENTEROFF + ", " + namePerson + "!";

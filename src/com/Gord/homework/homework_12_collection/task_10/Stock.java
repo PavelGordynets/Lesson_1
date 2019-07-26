@@ -5,7 +5,12 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
+/*
+тебе нужно было создать List<Fruit> и заполнить его
+затем взять HashMap и в качестве ключа добавить название фрукта, а вэлью - это количество
 
+чтобы перебрать все элементы List<Fruit> используй цикл и проверку наличие уже такого ключа в HashMap
+*/
 public class Stock {
     public static void main(String[] args) {
 
