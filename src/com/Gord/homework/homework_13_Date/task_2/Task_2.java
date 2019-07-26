@@ -1,4 +1,4 @@
-package com.Gord.homework.homework_13_Date.Task_2;
+package com.Gord.homework.homework_13_Date.task_2;
 
 import java.util.function.Function;
 
